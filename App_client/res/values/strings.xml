@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">穿戴式医疗</string>
+    <string name="hello_world">Hello johnfortune!</string>
+    <string name="ip_hint">输入服务器的ip地址</string>
+    <string name="server_ip">192.168.43.66</string>
+    <string name="Button">连接</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
